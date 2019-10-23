@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main5Activity">
+    <EditText
+        android:id="@+id/et_pass"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:hint="@string/pass"
+        android:inputType="textPassword"
+        android:importantForAutofill="no" />
+    <CheckBox
+        android:id="@+id/check_pass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/check_show_pass"
+        android:layout_alignStart="@id/et_pass"
+        android:layout_below="@id/et_pass"/>
+</RelativeLayout>

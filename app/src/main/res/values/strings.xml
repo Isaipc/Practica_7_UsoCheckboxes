@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Practica_7_UsoCheckboxes</string>
+    <string name="save">guardar</string>
+    <string name="check_1">Usar la misma dirección de facturación</string>
+    <string name="check_2">Aplicar seguro</string>
+    <string name="monto">Monto del giro</string>
+    <string name="tv_act_3">Solo cuentas premium</string>
+    <string name="check_report_mensual">Generar reporte mensual</string>
+    <string name="check_tiempo_local">Envío ajustado a zona de tiempo local</string>
+    <string name="btn_update">Actualizar cuenta</string>
+    <string name="tv_1">Elije tus intereses</string>
+    <string name="check_belleza">Belleza</string>
+    <string name="check_familia">Familia</string>
+    <string name="check_libros">Libros y literatura</string>
+    <string name="check_carreras">Carreras</string>
+    <string name="check_educacion">Educación</string>
+    <string name="check_eventos">Eventos</string>
+    <string name="check_comida">Comida y Bebidas</string>
+    <string name="check_videojuegos">Videojuegos</string>
+    <string name="check_deportes">Deportes</string>
+    <string name="check_arte">Arte</string>
+    <string name="pass">Contraseña</string>
+    <string name="check_show_pass">Mostrar contraseña</string>
+</resources>

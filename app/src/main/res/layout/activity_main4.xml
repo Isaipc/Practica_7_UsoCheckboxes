@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main4Activity">
+    <TextView
+        android:id="@+id/tv_1"
+        android:text="@string/tv_1"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"/>
+    <Space
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_row="0"
+        android:layout_column="1"/>
+    <Space
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_row="1"
+        android:layout_column="0"/>
+    <CheckBox
+        android:id="@+id/check_belleza"
+        android:text="@string/check_belleza"
+        android:layout_row="2"
+        android:layout_column="0"/>
+    <CheckBox
+        android:id="@+id/check_familia"
+        android:text="@string/check_familia"
+        android:layout_row="2"
+        android:layout_column="2"/>
+    <CheckBox
+        android:id="@+id/check_libros"
+        android:text="@string/check_libros"
+        android:layout_row="3"
+        android:layout_column="0"/>
+    <CheckBox
+        android:id="@+id/check_comida"
+        android:text="@string/check_comida"
+        android:layout_row="3"
+        android:layout_column="2"/>
+    <CheckBox
+        android:id="@+id/check_carreras"
+        android:text="@string/check_carreras"
+        android:layout_row="4"
+        android:layout_column="0"/>
+    <CheckBox
+        android:id="@+id/check_videojuegos"
+        android:text="@string/check_videojuegos"
+        android:layout_row="4"
+        android:layout_column="2"/>
+    <CheckBox
+        android:id="@+id/check_educacion"
+        android:text="@string/check_educacion"
+        android:layout_row="5"
+        android:layout_column="0"/>
+
+    <CheckBox
+        android:id="@+id/check_deportes"
+        android:text="@string/check_deportes"
+        android:layout_row="5"
+        android:layout_column="2"/>
+
+    <CheckBox
+        android:id="@+id/check_eventos"
+        android:text="@string/check_eventos"
+        android:layout_row="6"
+        android:layout_column="0"/>
+
+    <CheckBox
+        android:id="@+id/check_arte"
+        android:text="@string/check_arte"
+        android:layout_row="6"
+        android:layout_column="2"/>
+</GridLayout>
