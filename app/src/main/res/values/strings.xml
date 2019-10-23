@@ -21,4 +21,10 @@
     <string name="check_arte">Arte</string>
     <string name="pass">Contraseña</string>
     <string name="check_show_pass">Mostrar contraseña</string>
+    <string name="tv_channel">¿Dónde oíste de nosotros?</string>
+    <string name="check_tv">TV</string>
+    <string name="check_amigo">Un amigo</string>
+    <string name="check_periodico">Periódico</string>
+    <string name="check_radio">Radio</string>
+    <string name="check_otros">Otros</string>
 </resources>
