@@ -3,4 +3,6 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="colorRadioButtonOn">#2980B9</color>
+    <color name="colorRadioButtonOff">#3498DB</color>
 </resources>
